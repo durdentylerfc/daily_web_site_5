@@ -1,0 +1,37 @@
+
+body{
+    background: #d39612;
+    font=family: arial; 
+}
+h1 {
+    font-size: 18px;
+    margin: 0;
+ 
+    color: green; 
+}
+a { 
+    color: #f50cd6;
+    text-decoration: underline;
+}
+a:hover {
+    color: #000000;
+    text-decoration: none;
+    cursor: pointer;
+}
+h2 { 
+    font-size: 16px;
+}
+p {
+    font-size: 14px;
+    margin: 0;
+
+}
+h3 {
+    font-size: 12px;
+    text-decoration: wavy;
+}
+
+
+
+
+
